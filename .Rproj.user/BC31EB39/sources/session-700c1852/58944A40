@@ -1,7 +1,7 @@
 {
     "id": "58944A40",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/GoPc/Desktop/Progect/td1.R",
+    "project_path": "td1.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 2162997182360,
-    "encoding": "",
+    "lastKnownWriteTime": 1794932305,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1794931884654,
+    "last_content_update": 1794932426259,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,16 @@
+pays,region,pib_hab_usd,population_millions,inflation_pct,chomage_pct
+France,Europe,44000,68,2.3,7.4
+Allemagne,Europe,50000,84,2.6,5.8
+Maroc,Afrique du Nord,3800,38,1.8,11.2
+Tunisie,Afrique du Nord,4200,12,6.1,15.8
+Senegal,Afrique de l'Ouest,1700,18,2.1,3.5
+Cote d'Ivoire,Afrique de l'Ouest,2600,29,3.4,3.1
+Nigeria,Afrique de l'Ouest,1600,220,22,4.2
+Egypte,Afrique du Nord,3800,112,20.5,7.1
+Canada,Amerique du Nord,53000,39,2.9,6.1
+Etats-Unis,Amerique du Nord,82000,335,3.2,4
+Bresil,Amerique du Sud,10000,216,4.6,7.9
+Inde,Asie,2600,1430,5,8.2
+Chine,Asie,13000,1410,0.5,5.1
+Afrique du Sud,Afrique australe,6200,60,5.3,32.1
+Vietnam,Asie,4500,99,3.6,2.3

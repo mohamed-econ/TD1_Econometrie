@@ -11,4 +11,5 @@ print(resultat)
 # Note : L'indice 14 correspond a l'Afrique du Sud et 15 au Vietnam
 donnees[which.max(donnees$chomage_pct), c("pays", "chomage_pct")]
 donnees[which.min(donnees$chomage_pct), c("pays", "chomage_pct")]
+# test
 
